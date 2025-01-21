@@ -1,1 +1,5 @@
 # stonkswin
+
+```shell
+zold build
+```
